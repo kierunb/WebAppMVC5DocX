@@ -179,7 +179,6 @@
     <Content Include="lib\pdf.js\pdf_viewer.min.js" />
     <Content Include="Documents\test-pdf.pdf" />
     <Content Include="Documents\test-docx.docx" />
-    <None Include="Readme.md" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="libman.json" />
