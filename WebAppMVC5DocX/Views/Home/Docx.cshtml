@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Docx";
+}
+
+<h2>Docx to HTML rendering</h2>
+<hr />
+
+<style>
+    #the-word {
+        border: 1px solid black;
+        direction: ltr;
+    }
+</style>
+
+<div id="the-word">
+    @Html.Raw(ViewBag.HtmlOutput)
+</div>
+
+
+
